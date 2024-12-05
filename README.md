@@ -22,11 +22,15 @@ _    Does SIC respond differently to them?
 
 ![image](https://github.com/user-attachments/assets/852f1376-ccaf-4daf-a652-c3e125572e51)
 
+<img width="738" alt="image" src="https://github.com/user-attachments/assets/5cdcfd10-2e05-4488-af0a-143e7ea93bef">
+
+![Climate_Indices](https://github.com/user-attachments/assets/fca7e13a-4e5e-4295-98c3-ebc2e5ef0c54)
+
+
 ## Key Results:
 
 1. **Contrasting SIT and SIC Variability:** SIT shows distinct opposing anomalies between the Weddell Sea and East Antarctic vs. the Amundsen-Ross regions, a pattern absent in SIC (except in EOF2). Temporally, SIT’s PC1 steeply rises post-2000, unlike SIC.
    
-![image](https://github.com/user-attachments/assets/b0cf7c2e-5845-4853-859c-c74cd7411713)
 
 **EOF1:**
 **SIT:** Opposing spatial anomaly pattens  in Weddell-Bellingshausen and Ross-Amundsen.PC1 shows a steady positive increase from 1979-2000s and strengthens 2000 onwards.Maybe linked to broader climate phenomenon such as SAM or long-term atmospheric changes.
