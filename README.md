@@ -7,3 +7,10 @@ Existing studies understanding sea-ice relationships between atmospheric compone
 
 ## Motivation of the Study:  
 Results from my previous studies highlighted covariability between SIT and SIC:
+
+
+
+## Objectives/Research Questions:
+Identifying reasons for covariances between SIT and SIC: How do spatial and temporal SIT patterns look around the Antarctic? How are they different from SIC patterns? 
+Understanding the significance of atmospheric drivers on sea-ice: How are SIT and atmospheric mode in the southern hemisphere related? What are the primary dictating factor for SIT distribution in each region? Does SIC respond differently to them? 
+![image](https://github.com/user-attachments/assets/01c2af72-83f3-4834-bdc8-7c43059a55b9)
