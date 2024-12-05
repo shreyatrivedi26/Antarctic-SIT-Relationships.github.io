@@ -24,9 +24,9 @@ _    Does SIC respond differently to them?
 
 ## Key Results:
 
-Contrasting SIT and SIC Variability: SIT shows distinct opposing anomalies between the Weddell Sea and East Antarctic vs. the Amundsen-Ross regions, a pattern absent in SIC (except in EOF2). Temporally, SIT’s PC1 steeply rises post-2000, unlike SIC.
+**Contrasting SIT and SIC Variability:** SIT shows distinct opposing anomalies between the Weddell Sea and East Antarctic vs. the Amundsen-Ross regions, a pattern absent in SIC (except in EOF2). Temporally, SIT’s PC1 steeply rises post-2000, unlike SIC.
 
-Key Atmospheric Influences: During the Advance season, ZW3, SOI, and ASL significantly drive SIT variability. Regression residuals increase notably when these indices are excluded, highlighting their importance.
+**Key Atmospheric Influences:** During the Advance season, ZW3, SOI, and ASL significantly drive SIT variability. Regression residuals increase notably when these indices are excluded, highlighting their importance.
 
-Dynamic vs. Thermal Drivers: SIT is primarily influenced by dynamic atmospheric factors, whereas SIC patterns are more strongly affected by thermal processes like sea surface warming and ice melt.
+**Dynamic vs. Thermal Drivers:** SIT is primarily influenced by dynamic atmospheric factors, whereas SIC patterns are more strongly affected by thermal processes like sea surface warming and ice melt.
 
