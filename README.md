@@ -56,7 +56,7 @@ May be associated with more localized or shorter-term variability (such as ENSO,
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <!-- Left side: First image -->
     <div style="flex: 1; margin-right: 10px;">
-        <img src="https://github.com/user-attachments/assets/1cda1663-6192-447c-9f63-ea12409cd632" alt="CorrelationMatrix-CI" style="width: 100%;"/>
+        <img src="https://github.com/user-attachments/assets/1cda1663-6192-447c-9f63-ea12409cd632" alt="CorrelationMatrix-CI" style="width: 70%;"/>
     </div>
     
     <!-- Right side: Second and Third images stacked -->
