@@ -1,14 +1,18 @@
-# Antarctic-SIT-Relayionships.github.io
+# Antarctic-SIT-Relationships.github.io
 Antarctic Sea-ice Thickness: Spatio-Temporal Variability and its Relationship with Large-Scale Southern Hemispheric Atmospheric Circulations
 
 ## Introduction:
 1. Sea ice Thickness (SIT) has received limited attention  despite its importance in indicating absolute sea ice changes in the Southern Ocean.
 2. Existing studies understanding sea-ice relationships between atmospheric components and Antarctic sea-ice have only focused on the surface parameters such sea ice concentration (SIC), area or extent. 
 
+<br><br>
+
 ## Motivation of the Study:  
 Results from my previous studies highlighted covariability between SIT and SIC:
 
 ![Motivation of study](https://github.com/user-attachments/assets/b99f8128-00ae-466c-9dc2-7755264aacae)
+
+<br><br>
 
 ## Objectives/Research Questions:
 1. Identifying reasons for covariances between SIT and SIC:<br>
@@ -24,6 +28,8 @@ _   How are SIT and atmospheric mode in the southern hemisphere related? <br>
    <img src="https://github.com/user-attachments/assets/852f1376-ccaf-4daf-a652-c3e125572e51" alt="image" style="width: 45%;"/>
    <img src="https://github.com/user-attachments/assets/fca7e13a-4e5e-4295-98c3-ebc2e5ef0c54" alt="Climate_Indices" style="width: 60%;"/>
 </div>
+
+<br><br>
 
 ## Preliminary Results: 
 
@@ -50,6 +56,7 @@ Similar opposing anomaly patterns in both the parameters. For SIT, changes are t
 More oscillatory nature with strong interannual variability.
 May be associated with more localized or shorter-term variability (such as ENSO, ASL, ZW3).
 
+<br><br>
 
 2. **Key Atmospheric Influences:** During the Advance season, ZW3, SOI, and ASL significantly drive SIT variability. Regression residuals increase notably when these indices are excluded, highlighting their importance.
 
