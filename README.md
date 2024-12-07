@@ -25,11 +25,10 @@ _    Does SIC respond differently to them?
 ![Climate_Indices](https://github.com/user-attachments/assets/fca7e13a-4e5e-4295-98c3-ebc2e5ef0c54)
 
 
-## Key Results:
-
-1. **Contrasting SIT and SIC Variability:** SIT shows distinct opposing anomalies between the Weddell Sea and East Antarctic vs. the Amundsen-Ross regions, a pattern absent in SIC (except in EOF2). Temporally, SIT’s PC1 steeply rises post-2000, unlike SIC.
-![EOF_SIT_ADV](https://github.com/user-attachments/assets/29394bf3-7c83-4ce7-a257-f2cf84a00242)        
-![PC_SIT_ADV](https://github.com/user-attachments/assets/9e19983d-eb77-41d5-a849-e9c1364de387)
+<div style="display: flex; justify-content: space-between;">
+   <img src="https://github.com/user-attachments/assets/29394bf3-7c83-4ce7-a257-f2cf84a00242" alt="EOF_SIT_ADV" style="width: 45%;"/>
+   <img src="https://github.com/user-attachments/assets/9e19983d-eb77-41d5-a849-e9c1364de387" alt="PC_SIT_ADV" style="width: 45%;"/>
+</div>
 
 
 **EOF1:**
