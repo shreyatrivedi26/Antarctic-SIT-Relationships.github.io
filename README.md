@@ -31,6 +31,7 @@ Results from my previous studies highlighted covariability between SIT and SIC:
    <img src="https://github.com/user-attachments/assets/852f1376-ccaf-4daf-a652-c3e125572e51" alt="image" style="width: 45%;"/>
    <img src="https://github.com/user-attachments/assets/fca7e13a-4e5e-4295-98c3-ebc2e5ef0c54" alt="Climate_Indices" style="width: 60%;"/>
 </div>
+
 *Figure 2: a) Dataset and Methodology; b) Time series for the five selected atmospheric circulation indices in the Southern Hemisphere*
 
 <br><br>
@@ -94,3 +95,9 @@ Negative SAM patterns for SIT. For SIC, it seems like a reminiscent of ZW3 patte
 Positive SST-SIT relations--> increasing temperatures resulting in increasing SIT --> thermal component may not be that active. Opposite for SIC. 
 
 **For e.g., Weddell Sector:** A negative relationship with winds--> Negative meridional wind anomalies (warm northerly winds) causing thicker ice --> due to convergence and compaction of ice against the coasts. (Dynamic?)Opposite for SIC: Warmer northerly winds from the lower latitudes would increase the near surface temperatures and consequently the melting of ice. The mechanical effect of the winds would push ice southwards, decreasing the SIC by melting (thermal effects) but making the ice thicker due to convergence. 
+
+## References: 
+
+•	Trivedi, S., Hobbs W., Raphael, M.N., “An Assessment of Antarctic Sea-ice Thickness in CMIP6 Simulations with Comparison to the Satellite-based Observations and Reanalyses”, 2024, The Cryosphere [Under review]
+•	Trivedi, S., Goyal, R., Raphael, M.N., “Extremes in Southern Hemispheric Zonal Wave-3 and their Impact on Antarctic Sea-ice Thickness”, 2024, Geophysical Research Letters [In prep]
+
