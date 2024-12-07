@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    # Antarctic Sea-ice Thickness: Spatio-Temporal Variability and its Relationship with Large-Scale Southern Hemispheric Atmospheric Circulations
+    Antarctic Sea-ice Thickness: Spatio-Temporal Variability and its Relationship with Large-Scale Southern Hemispheric Atmospheric Circulations
 </div>
 
 ## Introduction:
@@ -17,13 +17,13 @@ Results from my previous studies highlighted covariability between SIT and SIC:
 
 ## Objectives/Research Questions:
 1. Identifying reasons for covariances between SIT and SIC:<br>
-_    How do spatial and temporal SIT patterns look around the Antarctic?<br>
-    How are they different from SIC patterns?<br><br>_
+    How do spatial and temporal SIT patterns look around the Antarctic?<br>
+    How are they different from SIC patterns?<br><br>
     
 2. Understanding the significance of atmospheric drivers on sea-ice: <br>
-_   How are SIT and atmospheric mode in the southern hemisphere related? <br>
+   How are SIT and atmospheric mode in the southern hemisphere related? <br>
    What are the primary dictating factor for SIT distribution in each region? <br>
-   Does SIC respond differently to them?<br><br>_
+   Does SIC respond differently to them?<br><br>
 
 <div style="display: flex; justify-content: space-between;">
    <img src="https://github.com/user-attachments/assets/852f1376-ccaf-4daf-a652-c3e125572e51" alt="image" style="width: 45%;"/>
@@ -34,7 +34,7 @@ _   How are SIT and atmospheric mode in the southern hemisphere related? <br>
 
 ## Preliminary Results: 
 
-1. **Contrasting SIT and SIC Variability:** SIT shows distinct opposing anomalies between the Weddell Sea and East Antarctic vs. the Amundsen-Ross regions, a pattern absent in SIC (except in EOF2). Temporally, SIT’s PC1 steeply rises post-2000, unlike SIC.
+I. **Contrasting SIT and SIC Variability:** SIT shows distinct opposing anomalies between the Weddell Sea and East Antarctic vs. the Amundsen-Ross regions, a pattern absent in SIC (except in EOF2). Temporally, SIT’s PC1 steeply rises post-2000, unlike SIC.
 
 **EOF1:**
 **SIT:** Opposing spatial anomaly pattens  in Weddell-Bellingshausen and Ross-Amundsen.PC1 shows a steady positive increase from 1979-2000s and strengthens 2000 onwards.Maybe linked to broader climate phenomenon such as SAM or long-term atmospheric changes.
@@ -59,7 +59,7 @@ May be associated with more localized or shorter-term variability (such as ENSO,
 
 <br><br>
 
-2. **Key Atmospheric Influences:** During the Advance season, ZW3, SOI, and ASL significantly drive SIT variability. Regression residuals increase notably when these indices are excluded, highlighting their importance.
+II. **Key Atmospheric Influences:** During the Advance season, ZW3, SOI, and ASL significantly drive SIT variability. Regression residuals increase notably when these indices are excluded, highlighting their importance.
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <!-- Left side: First image -->
@@ -83,7 +83,7 @@ May be associated with more localized or shorter-term variability (such as ENSO,
 
 <br><br>
 
-3. **Dynamic vs. Thermal Drivers:** SIT is primarily influenced by dynamic atmospheric factors, whereas SIC patterns are more strongly affected by thermal processes like sea surface warming and ice melt.
+III. **Dynamic vs. Thermal Drivers:** SIT is primarily influenced by dynamic atmospheric factors, whereas SIC patterns are more strongly affected by thermal processes like sea surface warming and ice melt.
    
 <img width="1152" alt="image" src="https://github.com/user-attachments/assets/310d52c2-7592-4541-8a4c-e70569bde651">
 
