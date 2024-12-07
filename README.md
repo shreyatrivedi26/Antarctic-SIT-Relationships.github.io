@@ -37,7 +37,7 @@ _    Does SIC respond differently to them?
    <img src="https://github.com/user-attachments/assets/9e19983d-eb77-41d5-a849-e9c1364de387" alt="PC_SIT_ADV" style="width: 45%;"/>
 </div>
 
-**SIC:** Alternating Zonal patterns around the Antarctic.PC1 shows strong interannual variability higher magnitudes and amplitudes (1990 onwards).Thermodynamic reasons, with greater melting at the ice edge. 
+**SIC:** Alternating Zonal patterns around the Antarctic.PC1 shows strong interannual variability i.e. higher magnitudes and amplitudes (1990 onwards).Thermodynamic reasons, with greater melting at the ice edge. 
 
 <div style="display: flex; justify-content: space-between;">
    <img src="https://github.com/user-attachments/assets/a5f1d73f-19fc-4091-be1f-a9644f496b69" alt="EOF_SIC_ADV" style="width: 45%;"/>
@@ -66,6 +66,18 @@ May be associated with more localized or shorter-term variability (such as ENSO,
     </div>
 </div>
 
+-- The atmospheric indices are independent of each other (No Multicollinearity).
+
+**REGRESSION AND RESIDUAL PLOTS:**
+1. “All features” line fairly tracks the actual SIT, indicating that the model using all predictors together provides a reasonable prediction of SIT. Except at certain instances such as 1991-92, 2002 and 2010. 
+2. When we exclude SOI or ZW3 and at some instances even ASL, the predicted values deviate more from the actual SIT, showing that these indices have a significant role in explaining SIT variation. Similar results seen for the Residual Plots. 
+3. There are periods where the residuals are larger, indicating the model's prediction errors increase during certain years. 
+
 
 3. **Dynamic vs. Thermal Drivers:** SIT is primarily influenced by dynamic atmospheric factors, whereas SIC patterns are more strongly affected by thermal processes like sea surface warming and ice melt.
+<img width="1152" alt="image" src="https://github.com/user-attachments/assets/310d52c2-7592-4541-8a4c-e70569bde651">
 
+Negative SAM patterns for SIT. For SIC, it seems like a reminiscent of ZW3 pattern or an ASL pattern. 
+Positive SST-SIT relations--> increasing temperatures resulting in increasing SIT --> thermal component may not be that active. Opposite for SIC. 
+
+**For e.g., Weddell Sector:** A negative relationship with winds--> Negative meridional wind anomalies (warm northerly winds) causing thicker ice --> due to convergence and compaction of ice against the coasts. (Dynamic?)Opposite for SIC: Warmer northerly winds from the lower latitudes would increase the near surface temperatures and consequently the melting of ice. The mechanical effect of the winds would push ice southwards, decreasing the SIC by melting (thermal effects) but making the ice thicker due to convergence. 
