@@ -12,13 +12,13 @@ Results from my previous studies highlighted covariability between SIT and SIC:
 
 ## Objectives/Research Questions:
 1. Identifying reasons for covariances between SIT and SIC:<br><br>
-    How do spatial and temporal SIT patterns look around the Antarctic?<br><br>
+    How do spatial and temporal SIT patterns look around the Antarctic?<br>
     How are they different from SIC patterns?
     
 2. Understanding the significance of atmospheric drivers on sea-ice: <br><br>
-   How are SIT and atmospheric mode in the southern hemisphere related? <br><br>
-   What are the primary dictating factor for SIT distribution in each region? <br><br>
-   Does SIC respond differently to them?<br><br>
+   How are SIT and atmospheric mode in the southern hemisphere related? <br>
+   What are the primary dictating factor for SIT distribution in each region? <br>
+   Does SIC respond differently to them?
 
 <div style="display: flex; justify-content: space-between;">
    <img src="https://github.com/user-attachments/assets/852f1376-ccaf-4daf-a652-c3e125572e51" alt="image" style="width: 45%;"/>
