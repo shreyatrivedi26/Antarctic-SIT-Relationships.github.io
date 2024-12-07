@@ -11,14 +11,14 @@ Results from my previous studies highlighted covariability between SIT and SIC:
 ![Motivation of study](https://github.com/user-attachments/assets/b99f8128-00ae-466c-9dc2-7755264aacae)
 
 ## Objectives/Research Questions:
-1. Identifying reasons for covariances between SIT and SIC:
-    _How do spatial and temporal SIT patterns look around the Antarctic?
-    How are they different from SIC patterns?_
+1. Identifying reasons for covariances between SIT and SIC:<br><br>
+    How do spatial and temporal SIT patterns look around the Antarctic?<br><br>
+    How are they different from SIC patterns?
     
-2. Understanding the significance of atmospheric drivers on sea-ice: 
-_    How are SIT and atmospheric mode in the southern hemisphere related? 
-__    What are the primary dictating factor for SIT distribution in each region? 
-_    Does SIC respond differently to them?
+2. Understanding the significance of atmospheric drivers on sea-ice: <br><br>
+   How are SIT and atmospheric mode in the southern hemisphere related? <br><br>
+   What are the primary dictating factor for SIT distribution in each region? <br><br>
+   Does SIC respond differently to them?<br><br>
 
 <div style="display: flex; justify-content: space-between;">
    <img src="https://github.com/user-attachments/assets/852f1376-ccaf-4daf-a652-c3e125572e51" alt="image" style="width: 45%;"/>
@@ -75,6 +75,7 @@ May be associated with more localized or shorter-term variability (such as ENSO,
 
 
 3. **Dynamic vs. Thermal Drivers:** SIT is primarily influenced by dynamic atmospheric factors, whereas SIC patterns are more strongly affected by thermal processes like sea surface warming and ice melt.
+   
 <img width="1152" alt="image" src="https://github.com/user-attachments/assets/310d52c2-7592-4541-8a4c-e70569bde651">
 
 Negative SAM patterns for SIT. For SIC, it seems like a reminiscent of ZW3 pattern or an ASL pattern. 
