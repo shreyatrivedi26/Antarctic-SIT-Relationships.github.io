@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-    Antarctic Sea-ice Thickness: Spatio-Temporal Variability and its Relationship with Large-Scale Southern Hemispheric Atmospheric Circulations
-</div>
+<h1 align="center">Antarctic Sea-ice Thickness: Spatio-Temporal Variability and its Relationship with Large-Scale Southern Hemispheric Atmospheric Circulations</h1>
+<h2 align="center">Shreya Trivedi and Marilyn Raphael</h2>
+<h3 align="center">University of California, Los Angeles (UCLA)</h3>
 
 ## Introduction:
 1. Sea ice Thickness (SIT) has received limited attention  despite its importance in indicating absolute sea ice changes in the Southern Ocean.
