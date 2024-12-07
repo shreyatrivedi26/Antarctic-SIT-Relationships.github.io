@@ -20,19 +20,19 @@ _    How are SIT and atmospheric mode in the southern hemisphere related?
 __    What are the primary dictating factor for SIT distribution in each region? 
 _    Does SIC respond differently to them?
 
-![image](https://github.com/user-attachments/assets/852f1376-ccaf-4daf-a652-c3e125572e51)
-
-![Climate_Indices](https://github.com/user-attachments/assets/fca7e13a-4e5e-4295-98c3-ebc2e5ef0c54)
-
-
 <div style="display: flex; justify-content: space-between;">
-   <img src="https://github.com/user-attachments/assets/29394bf3-7c83-4ce7-a257-f2cf84a00242" alt="EOF_SIT_ADV" style="width: 45%;"/>
-   <img src="https://github.com/user-attachments/assets/9e19983d-eb77-41d5-a849-e9c1364de387" alt="PC_SIT_ADV" style="width: 45%;"/>
+   <img src="https://github.com/user-attachments/assets/852f1376-ccaf-4daf-a652-c3e125572e51" alt="image" style="width: 45%;"/>
+   <img src="https://github.com/user-attachments/assets/fca7e13a-4e5e-4295-98c3-ebc2e5ef0c54" alt="Climate_Indices" style="width: 45%;"/>
 </div>
 
 
 **EOF1:**
 **SIT:** Opposing spatial anomaly pattens  in Weddell-Bellingshausen and Ross-Amundsen.PC1 shows a steady positive increase from 1979-2000s and strengthens 2000 onwards.Maybe linked to broader climate phenomenon such as SAM or long-term atmospheric changes.
+
+<div style="display: flex; justify-content: space-between;">
+   <img src="https://github.com/user-attachments/assets/29394bf3-7c83-4ce7-a257-f2cf84a00242" alt="EOF_SIT_ADV" style="width: 45%;"/>
+   <img src="https://github.com/user-attachments/assets/9e19983d-eb77-41d5-a849-e9c1364de387" alt="PC_SIT_ADV" style="width: 45%;"/>
+</div>
 
 **SIC:** Alternating Zonal patterns around the Antarctic.PC1 shows strong interannual variability higher magnitudes and amplitudes (1990 onwards).Thermodynamic reasons, with greater melting at the ice edge. 
 
