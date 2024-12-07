@@ -69,10 +69,11 @@ May be associated with more localized or shorter-term variability (such as ENSO,
 -- The atmospheric indices are independent of each other (No Multicollinearity).
 
 **REGRESSION AND RESIDUAL PLOTS:**
-1. “All features” line fairly tracks the actual SIT, indicating that the model using all predictors together provides a reasonable prediction of SIT. Except at certain instances such as 1991-92, 2002 and 2010. 
-2. When we exclude SOI or ZW3 and at some instances even ASL, the predicted values deviate more from the actual SIT, showing that these indices have a significant role in explaining SIT variation. Similar results seen for the Residual Plots. 
-3. There are periods where the residuals are larger, indicating the model's prediction errors increase during certain years. 
+-- “All features” line fairly tracks the actual SIT, indicating that the model using all predictors together provides a reasonable prediction of SIT. Except at certain instances such as 1991-92, 2002 and 2010. 
+-- When we exclude SOI or ZW3 and at some instances even ASL, the predicted values deviate more from the actual SIT, showing that these indices have a significant role in explaining SIT variation. Similar results seen for the Residual Plots. 
+-- There are periods where the residuals are larger, indicating the model's prediction errors increase during certain years. 
 
+<br><br>
 
 3. **Dynamic vs. Thermal Drivers:** SIT is primarily influenced by dynamic atmospheric factors, whereas SIC patterns are more strongly affected by thermal processes like sea surface warming and ice melt.
    
