@@ -25,7 +25,7 @@ _    Does SIC respond differently to them?
    <img src="https://github.com/user-attachments/assets/fca7e13a-4e5e-4295-98c3-ebc2e5ef0c54" alt="Climate_Indices" style="width: 45%;"/>
 </div>
 
-
+## Preliminary Results: 
 **EOF1:**
 **SIT:** Opposing spatial anomaly pattens  in Weddell-Bellingshausen and Ross-Amundsen.PC1 shows a steady positive increase from 1979-2000s and strengthens 2000 onwards.Maybe linked to broader climate phenomenon such as SAM or long-term atmospheric changes.
 
@@ -35,6 +35,12 @@ _    Does SIC respond differently to them?
 </div>
 
 **SIC:** Alternating Zonal patterns around the Antarctic.PC1 shows strong interannual variability higher magnitudes and amplitudes (1990 onwards).Thermodynamic reasons, with greater melting at the ice edge. 
+
+<div style="display: flex; justify-content: space-between;">
+   <img src="https://github.com/user-attachments/assets/a5f1d73f-19fc-4091-be1f-a9644f496b69" alt="EOF_SIC_ADV" style="width: 45%;"/>
+   <img src="https://github.com/user-attachments/assets/ff830789-7c66-4ced-8aaa-5adc6c3e1bc2" alt="PC_SIC_ADV" style="width: 45%;"/>
+</div>
+
 
 **EOF2:**
 Similar opposing anomaly patterns in both the parameters. For SIT, changes are throughout the ice-pack while for SIC, they are mostly concentrated at the ice edge.
