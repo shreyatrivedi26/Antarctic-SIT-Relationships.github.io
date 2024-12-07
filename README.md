@@ -13,6 +13,8 @@ Results from my previous studies highlighted covariability between SIT and SIC:
 
 ![Motivation of study](https://github.com/user-attachments/assets/b99f8128-00ae-466c-9dc2-7755264aacae)
 
+*Figure 1: a) Scatter plots between the annual means of SIT (y-axis) and SIA (x-axis) for CMIP6 models, Reanalyses and Observations for the period (2002-2014) for SIT maxima observed in February and minima observed in September. Each small dot represents a model, larger dots represent observations (Envisat-CryoSat-2 and passive microwave data at NSIDC for SIT and SIA, respectively) while triangles represent reanalyses (GIOMAS and GECCO3). Scale: million km2 (Trivedi et al., 2024; Under Review) b) Monthly averaged anomalies in SIT (shaded), SIA (contours) and 10-m winds (vectors) in CESM2 over preindustrial runs (Aug-Oct for 1200 years). Spatial variabilities in SIT are seen throughout the icepack unlike in SIA which is primarily noticed at the ice edge. “Thickness dipoles” are visible along the coast of Amundsen-Ross Seas (magnified)  i.e., negative anomalies even in regions of cold southerly winds (Trivedi et al., In prep)*
+
 <br><br>
 
 ## Objectives/Research Questions:
@@ -29,6 +31,7 @@ Results from my previous studies highlighted covariability between SIT and SIC:
    <img src="https://github.com/user-attachments/assets/852f1376-ccaf-4daf-a652-c3e125572e51" alt="image" style="width: 45%;"/>
    <img src="https://github.com/user-attachments/assets/fca7e13a-4e5e-4295-98c3-ebc2e5ef0c54" alt="Climate_Indices" style="width: 60%;"/>
 </div>
+*Figure 2: a) Dataset and Methodology; b) Time series for the five selected atmospheric circulation indices in the Southern Hemisphere*
 
 <br><br>
 
