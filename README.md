@@ -22,10 +22,13 @@ _    Does SIC respond differently to them?
 
 <div style="display: flex; justify-content: space-between;">
    <img src="https://github.com/user-attachments/assets/852f1376-ccaf-4daf-a652-c3e125572e51" alt="image" style="width: 45%;"/>
-   <img src="https://github.com/user-attachments/assets/fca7e13a-4e5e-4295-98c3-ebc2e5ef0c54" alt="Climate_Indices" style="width: 45%;"/>
+   <img src="https://github.com/user-attachments/assets/fca7e13a-4e5e-4295-98c3-ebc2e5ef0c54" alt="Climate_Indices" style="width: 60%;"/>
 </div>
 
 ## Preliminary Results: 
+
+1. **Contrasting SIT and SIC Variability:** SIT shows distinct opposing anomalies between the Weddell Sea and East Antarctic vs. the Amundsen-Ross regions, a pattern absent in SIC (except in EOF2). Temporally, SIT’s PC1 steeply rises post-2000, unlike SIC.
+
 **EOF1:**
 **SIT:** Opposing spatial anomaly pattens  in Weddell-Bellingshausen and Ross-Amundsen.PC1 shows a steady positive increase from 1979-2000s and strengthens 2000 onwards.Maybe linked to broader climate phenomenon such as SAM or long-term atmospheric changes.
 
@@ -42,13 +45,27 @@ _    Does SIC respond differently to them?
 </div>
 
 
-**EOF2:**
+**EOF2 and 3:**
 Similar opposing anomaly patterns in both the parameters. For SIT, changes are throughout the ice-pack while for SIC, they are mostly concentrated at the ice edge.
 More oscillatory nature with strong interannual variability.
 May be associated with more localized or shorter-term variability (such as ENSO, ASL, ZW3).
 
 
-3. **Key Atmospheric Influences:** During the Advance season, ZW3, SOI, and ASL significantly drive SIT variability. Regression residuals increase notably when these indices are excluded, highlighting their importance.
+2. **Key Atmospheric Influences:** During the Advance season, ZW3, SOI, and ASL significantly drive SIT variability. Regression residuals increase notably when these indices are excluded, highlighting their importance.
 
-4. **Dynamic vs. Thermal Drivers:** SIT is primarily influenced by dynamic atmospheric factors, whereas SIC patterns are more strongly affected by thermal processes like sea surface warming and ice melt.
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <!-- Left side: First image -->
+    <div style="flex: 1; margin-right: 10px;">
+        <img src="https://github.com/user-attachments/assets/1cda1663-6192-447c-9f63-ea12409cd632" alt="CorrelationMatrix-CI" style="width: 100%;"/>
+    </div>
+    
+    <!-- Right side: Second and Third images stacked -->
+    <div style="flex: 1; display: flex; flex-direction: column;">
+        <img src="https://github.com/user-attachments/assets/fb6af521-622e-45c6-bb5d-7c83c44ea667" alt="OLR_Actual_vs_Predicted_SIT" style="width: 100%; margin-bottom: 10px;"/>
+        <img src="https://github.com/user-attachments/assets/df2baef5-082d-4116-992a-a9d2b27717d4" alt="OLR_Residuals_SIT" style="width: 100%;"/>
+    </div>
+</div>
+
+
+3. **Dynamic vs. Thermal Drivers:** SIT is primarily influenced by dynamic atmospheric factors, whereas SIC patterns are more strongly affected by thermal processes like sea surface warming and ice melt.
 
