@@ -72,7 +72,7 @@ II. **Key Atmospheric Influences:** During the Advance season, ZW3, SOI, and ASL
 
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="[https://github.com/user-attachments/assets/1cda1663-6192-447c-9f63-ea12409cd632" alt="CorrelationMatrix-CI" style="width: 45%;](https://github.com/user-attachments/assets/fb6af521-622e-45c6-bb5d-7c83c44ea667" alt="OLR_Actual_vs_Predicted_SIT" style="width: 100%; margin-bottom: 10px);"/>
+   <img src= "https://github.com/user-attachments/assets/fb6af521-622e-45c6-bb5d-7c83c44ea667" alt="OLR_Actual_vs_Predicted_SIT" style="width: 100%; margin-bottom: 10px);"/>
    <img src="https://github.com/user-attachments/assets/df2baef5-082d-4116-992a-a9d2b27717d4" alt="OLR_Residuals_SIT" style="width: 100%;"/>
 </div>
 
