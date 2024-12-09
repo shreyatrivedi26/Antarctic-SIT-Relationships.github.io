@@ -71,7 +71,7 @@ II. **Key Atmospheric Influences:** During the Advance season, ZW3, SOI, and ASL
 </div>
 
 -- The atmospheric indices are independent of each other (No Multicollinearity). <br>
--- The empirical model shows reasonable skill at predicting SIT during Advance Season using five selected atmospheric indrices as the predictors.  
+-- The empirical model shows reasonable skill at predicting SIT during Advance Season using five selected atmospheric indrices as the predictors.<br>  
 
 **REGRESSION AND RESIDUAL PLOTS:**
 
@@ -81,8 +81,8 @@ II. **Key Atmospheric Influences:** During the Advance season, ZW3, SOI, and ASL
        margin-bottom: 10px"/>
 </div>
 
--- “All features” line fairly tracks the actual SIT, indicating that the model using all predictors together provides a reasonable prediction of SIT. Except at certain instances such as 1991-92, 2002 and 2010. 
--- When we exclude SOI or ZW3 and at some instances even ASL, the predicted values deviate more from the actual SIT, showing that these indices have a significant role in explaining SIT variation. Similar results seen for the Residual Plots. 
+-- “All features” line fairly tracks the actual SIT, indicating that the model using all predictors together provides a reasonable prediction of SIT. Except at certain instances such as 1991-92, 2002 and 2010. <br>
+-- When we exclude SOI or ZW3 and at some instances even ASL, the predicted values deviate more from the actual SIT, showing that these indices have a significant role in explaining SIT variation. Similar results seen for the Residual Plots. <br>
 -- There are periods where the residuals are larger, indicating the model's prediction errors increase during certain years. 
 
 <br><br>
