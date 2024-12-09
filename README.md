@@ -94,7 +94,8 @@ III. **Dynamic vs. Thermal Drivers:** SIT is primarily influenced by dynamic atm
 Negative SAM patterns for SIT. For SIC, it seems like a reminiscent of ZW3 pattern or an ASL pattern. 
 Positive SST-SIT relations--> increasing temperatures resulting in increasing SIT --> thermal component may not be that active. Opposite for SIC. 
 
-**For e.g., Weddell Sector:** A negative relationship with winds--> Negative meridional wind anomalies (warm northerly winds) causing thicker ice --> due to convergence and compaction of ice against the coasts. (Dynamic?)Opposite for SIC: Warmer northerly winds from the lower latitudes would increase the near surface temperatures and consequently the melting of ice. The mechanical effect of the winds would push ice southwards, decreasing the SIC by melting (thermal effects) but making the ice thicker due to convergence. 
+**For e.g., Weddell Sector:** A negative relationship with winds--> Negative meridional wind anomalies (warm northerly winds) causing thicker ice --> due to convergence and compaction of ice against the coasts. (Dynamic?)<br>
+**_Opposite for SIC:_** Warmer northerly winds from the lower latitudes would increase the near surface temperatures and consequently the melting of ice. The mechanical effect of the winds would push ice southwards, decreasing the SIC by melting (thermal effects) but making the ice thicker due to convergence. 
 
 <br><br>
 
