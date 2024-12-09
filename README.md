@@ -65,17 +65,15 @@ May be associated with more localized or shorter-term variability (such as ENSO,
 
 II. **Key Atmospheric Influences:** During the Advance season, ZW3, SOI, and ASL significantly drive SIT variability. Regression residuals increase notably when these indices are excluded, highlighting their importance.
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <!-- Left side: First image -->
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="https://github.com/user-attachments/assets/1cda1663-6192-447c-9f63-ea12409cd632" alt="CorrelationMatrix-CI" style="width: 70%;"/>
-    </div>
-    
-    <!-- Right side: Second and Third images stacked -->
-    <div style="flex: 1; display: flex; flex-direction: column;">
-        <img src="https://github.com/user-attachments/assets/fb6af521-622e-45c6-bb5d-7c83c44ea667" alt="OLR_Actual_vs_Predicted_SIT" style="width: 100%; margin-bottom: 10px;"/>
-        <img src="https://github.com/user-attachments/assets/df2baef5-082d-4116-992a-a9d2b27717d4" alt="OLR_Residuals_SIT" style="width: 100%;"/>
-    </div>
+<div style="display: flex; justify-content: space-between;">
+   <img src="https://github.com/user-attachments/assets/1cda1663-6192-447c-9f63-ea12409cd632" alt="CorrelationMatrix-CI" style="width: 45%;"/>
+   <img src="https://github.com/user-attachments/assets/11be8ebc-3a64-441d-a610-ee6ef7ed65b7" alt="[Predicted_Vs_Actual_SIT]" style="width: 45%;"/>
+</div>
+
+
+<div style="display: flex; justify-content: space-between;">
+   <img src="[https://github.com/user-attachments/assets/1cda1663-6192-447c-9f63-ea12409cd632" alt="CorrelationMatrix-CI" style="width: 45%;](https://github.com/user-attachments/assets/fb6af521-622e-45c6-bb5d-7c83c44ea667" alt="OLR_Actual_vs_Predicted_SIT" style="width: 100%; margin-bottom: 10px);"/>
+   <img src="https://github.com/user-attachments/assets/df2baef5-082d-4116-992a-a9d2b27717d4" alt="OLR_Residuals_SIT" style="width: 100%;"/>
 </div>
 
 -- The atmospheric indices are independent of each other (No Multicollinearity).
