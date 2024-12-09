@@ -70,7 +70,7 @@ II. **Key Atmospheric Influences:** During the Advance season, ZW3, SOI, and ASL
    <img src="https://github.com/user-attachments/assets/11be8ebc-3a64-441d-a610-ee6ef7ed65b7" alt="[Predicted_Vs_Actual_SIT]" style="width: 45%;"/>
 </div>
 
--- The atmospheric indices are independent of each other (No Multicollinearity).
+-- The atmospheric indices are independent of each other (No Multicollinearity). <br>
 -- The empirical model shows reasonable skill at predicting SIT during Advance Season using five selected atmospheric indrices as the predictors.  
 
 **REGRESSION AND RESIDUAL PLOTS:**
